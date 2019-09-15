@@ -1,0 +1,23 @@
+#dropdownNav a:hover {
+    background-color: #ffb070;
+
+}
+
+.page_title {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+.filter_desc {
+    color: deepskyblue;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+a:hover {
+    text-decoration: none;
+}

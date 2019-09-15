@@ -1,0 +1,52 @@
+#league_filter_big {
+    display: inline-block;
+}
+
+#league_filter_small {
+    display: none;
+}
+
+@media screen and (max-width: 500px) {
+    #league_filter_big {
+        display: none;
+    }
+
+    #league_filter_small {
+        display: inline-block;
+    }
+
+    #image_a {
+        max-height: 100px !important;
+        max-width: 100px !important;
+    }
+
+    #image_b {
+        max-height: 100px !important;
+        max-width: 100px !important;
+    }
+
+    #match_score {
+        word-spacing: 50px !important;
+    }
+
+    #crown_right {
+        margin-left: 150px !important;
+    }
+
+    #crown_left {
+        margin-right: 150px !important;
+    }
+
+    #youtube_embed {
+        width: 300px;
+        height: 200px;
+    }
+}
+
+.match_titel {
+    color: #3a3a3a;
+    text-decoration: none;
+}
+
+
+

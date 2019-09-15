@@ -1,0 +1,12 @@
+.card-block {
+    padding: 0.5rem;
+}
+
+.card-img-top:hover{
+    opacity: 0.5;
+}
+
+#column_block {
+  padding-bottom: 15px;
+
+}

@@ -1,0 +1,65 @@
+#myTabContent {
+    padding: 10px;
+}
+
+#box-gray {
+    background: #1d1d1e;
+
+}
+
+#thumbnail_text {
+    padding: 10px;
+    color: #eeeeee;
+    text-align: center;
+}
+
+.card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50% !important;
+}
+
+.container_title {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+#livestreams {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#info_button {
+    margin-left: 5px;
+    color: whitesmoke;
+    background-color: gray;
+    margin-bottom: 5px;
+    margin-top: -40px;
+}
+
+#info_button:hover{
+    background-color: darkorange;
+}
+
+#collapse {
+    margin-top: 2px;
+}
+
+@media screen and (max-width: 500px) {
+    .card-img-top {
+    width: 100% !important;
+    }
+}
+
+#dropdownMenuButton{
+    margin-bottom: 5px;
+    margin-left: 15px;
+    /*background-color: black;*/
+}
+
+#dropdownMenuButton:hover{
+    background-color: darkorange;
+    border-color: white;
+}

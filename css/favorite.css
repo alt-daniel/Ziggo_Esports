@@ -1,0 +1,12 @@
+.container button{
+    width: 200px;
+    margin-bottom: 1em;
+}
+
+.container .online{
+    color:green;
+}
+
+.container .offline{
+    color:red;
+}
